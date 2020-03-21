@@ -18,4 +18,9 @@ public class D1 {
         System.out.println("输入完成");
         System.out.println("输入完成");
     }
+
+    public void test_git(){
+        i = 1;
+        i+=5;
+    }
 }
