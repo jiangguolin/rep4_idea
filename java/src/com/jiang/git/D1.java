@@ -20,7 +20,7 @@ public class D1 {
     }
 
     public void test_git(){
-        i = 1;
+        int i = 1;
         i+=5;
     }
 }
